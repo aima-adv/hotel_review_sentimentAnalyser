@@ -1,5 +1,5 @@
-# hotel_review_sentimentAnalyser
-Hotel review sentiment Analyser is an NLP project that rates the reviews based on sentiment classification. 
+# Hotel Reviews Sentiment Analyser
+Hotel review sentiment Analyser is an NLP project that rates the reviews based on sentiment classification using stanford's CoreNLP. 
 
 # data
 Hotel review sentiment Analyser uses restaurant review dataset from Kaggle [https://www.kaggle.com/c/restaurant-reviews/data]
