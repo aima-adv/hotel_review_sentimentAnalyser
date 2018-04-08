@@ -1,4 +1,4 @@
-# hotel_review_sentimentAnalyser
+# Hotel Reviews Sentiment Analyser
 Hotel review sentiment Analyser is an NLP project that rates the reviews based on sentiment classification. 
 
 # data
